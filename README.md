@@ -4,4 +4,5 @@ Recommendation System for E-Commerce Project (Python)
 
 <br>
 
-## Coming soon!
+## <strike>Coming soon!</strike>
+## Started!
