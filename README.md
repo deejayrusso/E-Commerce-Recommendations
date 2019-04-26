@@ -1,7 +1,9 @@
 # E-Commerce-Recommendations
 Recommendation System for E-Commerce Project (Python)
+Analysis with SQLite and Pandas
 
 
 <br>
 
-## Coming soon!
+### <strike>Coming soon!</strike>
+## Started!
