@@ -7,4 +7,4 @@ Analysis with SQLite and Pandas
 
 ### <strike>Coming soon!</strike>
 ## Under Construction
-#### Pardon my "dust"
+#### Pardon the "dust"
