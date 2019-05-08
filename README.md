@@ -6,4 +6,4 @@ Analysis with SQLite and Pandas
 <br>
 
 ### <strike>Coming soon!</strike>
-## Under COnstruction
+## Under Construction
