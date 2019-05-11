@@ -7,6 +7,7 @@ Analysis with SQLite and Pandas
 ### <strike>Coming soon!</strike>
 ## Under Construction
 <br>
+
 ### <u>Methods Used</u>
 <ul>
   <li>Data Analysis with SQLite and Pandas</li>
