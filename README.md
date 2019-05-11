@@ -7,7 +7,7 @@ Analysis with SQLite and Pandas
 ### <strike>Coming soon!</strike>
 ## Under Construction
 <br>
-### <u> Methods Used</u>
+### <u>Methods Used</u>
 <ul>
   <li>Data Analysis with SQLite and Pandas</li>
   <li>Market Basket Analysis (to be completed)</li>
