@@ -22,6 +22,7 @@ Analysis with SQLite and Pandas
   <li>NumPy</li>
   <li>SQLite3</li>
   <li>Jupyter</li>
+  <li>mlxtend</li>
   </ul>
   
 ## <u>Description</u>
