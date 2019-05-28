@@ -14,20 +14,20 @@ Analysis with SQLite and Pandas
 ### <u>Technologies/Libraries Used</u>
 <ul>
   <li>Python 3</li>
+  <li>SQLite3</li>
   <li>Pandas</li>
   <li>NumPy</li>
-  <li>SQLite3</li>
   <li>mlxtend</li>
   <li>Jupyter</li>
   </ul>
   
 ## <u>Description</u>
-The premise of this project is a hypothetical company, "The Company", in the e-commerce industry that would like to develop a recommendation system. "The Company" speacializes in selling adhesives and sealants in addition to many related products in other categories.
+The premise of this project is a hypothetical company, "The Company", in the e-commerce industry that would like to develop a recommendation system. "The Company" specializes in selling adhesives and sealants in addition to many related products in other categories.
 
 There are two parts:
 <ol>
-  <li><b>Notebook:</b> Uses transaction data from "The Company" to show how to identify complementary products using machine learning techniques to lay the foundation for an automated recommendation engine. Includes code and brief EDA.</li>
-  <li><b>PowerPoint:</b> (To be completed) Discusses when brands matter and why customers may choose one brand over another. Then presents how to automatically detect items to use in recommendation system with examples from findings developed in the notebook.</li>
+  <li><b>Notebook:</b> Includes code and brief EDA for technical departments. Uses transaction data from "The Company" to show how to identify complementary products using machine learning techniques to lay the foundation for an automated recommendation engine.</li>
+  <li><b>PowerPoint:</b> (To be completed) Presents findings for business stakeholders. Discusses when brands matter and why customers may choose one brand over another. Then presents how to automatically detect items to use in recommendation system with examples from findings developed in the notebook.</li>
 </ol>
 
 ## <u>Data </u>
