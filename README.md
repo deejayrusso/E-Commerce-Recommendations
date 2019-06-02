@@ -9,7 +9,7 @@ Analysis with SQLite using Pandas
   <li>Data Analysis with SQLite and Pandas</li>
   <li>Market Basket Analysis</li>
   <li>Apriori Algorithm</li>
-  <li>Assocition Rule Mining</li>
+  <li>Association Rule Mining</li>
   </ul>
 
 ### <u>Technologies/Libraries Used</u>
